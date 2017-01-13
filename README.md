@@ -1,14 +1,22 @@
 # Mosaic App
 <p>Team: Inga Kytchanova, Joel Bell, Ryan Rosello &amp; Joe Kiley.
 <br><br>
-<b>Description:</b><br>
-This app was designed for sharing moments with your loved ones.</p>
+<b>App description:</b><br>
+This app was designed for sharing photos and drawings between close friends and familty as a digital pin board.</p>
 
 <ul>
-<li>Collaborate with friends by sharing photos and drawings.</li>
-<li>Can have multiple mosaics shared between small groups of friends.</li>
-<li>Groups can have conversations around photos.</li>
-<li>To keep it fresh - photos remain for 7 days. 
+<li><i>My role in the project:</i></li>
+<li>I worked on the initial information architecture and setup the app up on Parse backend.</li>
+<li>Coded the side navigation, Find Friends, Create New Board and Manage Boards views in Objective-C.</li>
+<li>Coded the initial view for posting photos and comments.</li>
+<li>At the end, cleaned up the code, pulled the project together and refined the design.</li>
+<li>Wrote server functions for deleting board's content on a weekly basis.</li>
+<br>
+<li><i>The team's role:</i></li>
+<li>Set up account creation and management both in Objective-C and Swift.</li>
+<li>Did a lot of math and coded a custom collection view for the boards.</li>
+<li>Integrated drawing on top of photos functionality.</li>
+<li>Did the initial design and user flow for the app.</li>
 <br>
 <br>
 <br>
