@@ -2,7 +2,7 @@
 <p>Team: Inga Kytchanova, Joel Bell, Ryan Rosello &amp; Joe Kiley.
 <br><br>
 <b>App description:</b><br>
-This app was designed for sharing photos and drawings between close friends and familty as a digital pin board.</p>
+This app was created for sharing photos and drawings between close friends and family as a digital pin board.</p>
 
 <ul>
 <li><i>My role in the project:</i></li>
